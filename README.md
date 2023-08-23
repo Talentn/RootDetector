@@ -22,7 +22,7 @@ Ou dans Gradle :
 
 ```groovy 
 dependencies {
-  implementation 'com.github.vous:module:1.0'
+  implementation 'com.github.talentn:rootdetection:1.0.0'
 }
 ```
 
